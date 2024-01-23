@@ -1,4 +1,4 @@
-# Vue 3 + Vite
+# Administrador de Pacientes de Veterinaria - VUE
 
 Administrador de Pacientes de Veterinaria Basico con Vue y LocalStorage
 
